@@ -15,4 +15,4 @@ $ npm start
 
 ## Sources
 This website is inspired by a tutorial YouTube video from "Dev Ed"
-https://www.youtube.com/watch?v=xc4uOzlndAk&t=1s
+https://www.youtube.com/watch?v=xc4uOzlndAk&t
