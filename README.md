@@ -1,6 +1,7 @@
 # Deliciousss - React app
 This is a "food" related website based on React.js.
 
+### Click your favourite type of food or search it by name
 ![alte text](https://github.com/Thanasis-Traitsis/React-Food-Recipes/blob/d5b57f129045effbaf36c0aa71f459515ad04949/deliciousss.png)
 ![alte text](https://github.com/Thanasis-Traitsis/React-Food-Recipes/blob/d5b57f129045effbaf36c0aa71f459515ad04949/deliciousss%20recipe.png)
 
